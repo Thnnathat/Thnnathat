@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thnnathat" alt="thnnathat" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps Beginners to Advanced with Projects**
+- 🌱 I’m currently learning **With project**
 
 - ✉️ You can contact me at **thnnathatchaiphutha@gmail.com**
 
