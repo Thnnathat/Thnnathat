@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, My name is Thnnathat Chaiphutha</h1>
 <h3 align="center">I'm a computer engineering student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thnnathat&column=4&margin-w=15&margin-h=15" alt="thnnathat" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thnnathat&column=6&margin-w=15&margin-h=15" alt="thnnathat" /></a> </p>
 
 - 🌱 I’m currently **interning as a DevOps at Botnoi**
 
