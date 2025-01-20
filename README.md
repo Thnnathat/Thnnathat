@@ -13,8 +13,6 @@
 <a href="https://linkedin.com/in/thnnathat-chaiphutha-104864228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thnnathat-chaiphutha-104864228" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16144290/thnnathat-chaiphutha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16144290/thnnathat-chaiphutha" height="30" width="40" /></a>
 <a href="https://kaggle.com/thnnathatchaiphutha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="thnnathatchaiphutha" height="30" width="40" /></a>
-<a href="https://fb.com/thnnathatchaiphutha.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thnnathatchaiphutha.official" height="30" width="40" /></a>
-<a href="https://instagram.com/thnnathatchaiphutha.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thnnathatchaiphutha.official" height="30" width="40" /></a>
 <a href="https://discord.gg/cHvexEJCUU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cHvexEJCUU" height="30" width="40" /></a>
 </p>
 
