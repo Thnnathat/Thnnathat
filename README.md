@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thnnathat&column=6&margin-w=15&margin-h=15" alt="thnnathat" /></a> </p>
 
-- 🌱 I’m currently **interning as a DevOps at Botnoi**
+- 🌱 I’m currently **Part-time as a DevOps Engineer at Botnoi**
 
 - ✉️ You can contact me at **thnnathatchaiphutha@gmail.com**
 
